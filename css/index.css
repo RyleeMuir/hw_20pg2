@@ -1,0 +1,21 @@
+#one{
+    display: flex;
+    font-size: 30px;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+#two{
+    display: flex;
+    padding-left: 65%;
+}
+
+#flex{
+    display:flex;
+    padding-top: 10%;
+    width: 100%;
+
+}
+#imgOne{
+    padding-left: 300px;
+}
